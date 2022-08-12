@@ -10,8 +10,7 @@ function isFibonacci(num: number) {
             return loop(start + 1, end, callBack);
         }
     }
-
-
+    
     loop(0, num, function (index: number) {
         console.log(c)
         sum += c;
