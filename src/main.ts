@@ -11,6 +11,7 @@ function isFibonacci(num: number) {
         }
     }
 
+
     loop(0, num, function (index: number) {
         console.log(c)
         sum += c;
